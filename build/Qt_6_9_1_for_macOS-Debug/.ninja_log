@@ -1,9 +1,0 @@
-# ninja log v6
-2	474	1754979802581476438	CopyManager_autogen/timestamp	bec0c319d4745cae
-2	474	1754979802581476438	CopyManager_autogen/mocs_compilation.cpp	bec0c319d4745cae
-2	474	1754979802581476438	/Users/deb/Documents/gitRepos/CopyManager/CopyManager/build/Qt_6_9_1_for_macOS-Debug/CopyManager_autogen/timestamp	bec0c319d4745cae
-2	474	1754979802581476438	/Users/deb/Documents/gitRepos/CopyManager/CopyManager/build/Qt_6_9_1_for_macOS-Debug/CopyManager_autogen/mocs_compilation.cpp	bec0c319d4745cae
-476	1235	1754979802594145807	CMakeFiles/CopyManager.dir/CopyManager_autogen/mocs_compilation.cpp.o	a281de57e32bb232
-476	1242	1754979802594343975	CMakeFiles/CopyManager.dir/main.cpp.o	8aa994679439658c
-477	1256	1754979802594469475	CMakeFiles/CopyManager.dir/mainwindow.cpp.o	d34b7be75980c28d
-1256	1365	1754979803374295545	CopyManager.app/Contents/MacOS/CopyManager	524b1a66f3c6d204
