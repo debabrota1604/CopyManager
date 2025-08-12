@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_CopyManager_FILE /Users/deb/Documents/gitRepos/CopyManager/CopyManager/build/Qt_6_9_1_for_macOS-Debug/CopyManager.app/Contents/MacOS/CopyManager)
+set(__QT_DEPLOY_TARGET_CopyManager_TYPE EXECUTABLE)
