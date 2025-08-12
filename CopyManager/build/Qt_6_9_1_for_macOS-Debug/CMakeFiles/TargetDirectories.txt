@@ -1,9 +1,0 @@
-/Users/deb/Documents/gitRepos/CopyManager/CopyManager/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/CopyManager.dir
-/Users/deb/Documents/gitRepos/CopyManager/CopyManager/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
-/Users/deb/Documents/gitRepos/CopyManager/CopyManager/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
-/Users/deb/Documents/gitRepos/CopyManager/CopyManager/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
-/Users/deb/Documents/gitRepos/CopyManager/CopyManager/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install.dir
-/Users/deb/Documents/gitRepos/CopyManager/CopyManager/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install/local.dir
-/Users/deb/Documents/gitRepos/CopyManager/CopyManager/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install/strip.dir
-/Users/deb/Documents/gitRepos/CopyManager/CopyManager/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/CopyManager_autogen_timestamp_deps.dir
-/Users/deb/Documents/gitRepos/CopyManager/CopyManager/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/CopyManager_autogen.dir
